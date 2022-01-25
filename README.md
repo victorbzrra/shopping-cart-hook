@@ -12,5 +12,4 @@ Practicing React by creating a hook for a shopping cart app.
 - ✅ Toastify (for Errors Messages).
 
 ## Running Application
-- You can preview the page design here: https://victorbzrra.github.io/dt-money-ignite/
 - For full access to the application's features, clone the master branch from the repository and install the dependencies with `yarn`, then run `yarn server` to simulate the api that contains the registered products, and finally run `yarn start`.
